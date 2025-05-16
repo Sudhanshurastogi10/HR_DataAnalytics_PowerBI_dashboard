@@ -5,7 +5,7 @@
 - Research & Development  
 - Sales  
 
-**_Performance Indicators (KPIs):_**  
+**_Key Performance Indicators (KPIs):_**  
 - Count of employees  
 - Attrition figures  
 - Attrition rate  
