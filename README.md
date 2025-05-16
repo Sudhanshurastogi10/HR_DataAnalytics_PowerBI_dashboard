@@ -1,19 +1,43 @@
-**DASHBOARD OVERVIEW**
-_**Department Level Filter -**_  Human Resources, Research & Development, Sales.
-_**Performance Indicators (KPIs) –**_ Count of employees, Attrition figures, Attrition rate, Average age of employees, Average salary of employees, and Average year of employees at the company.
+## **DASHBOARD OVERVIEW**
 
-**_Actions performed: _**
-> Data Cleaning: Use Power Query to clean the irrelevant and unused data such as removing duplicates, renaming columns, and changing data types.
-> Data Processing: Load and apply the cleaned data into Power BI.
-> Data Visualization: Create measures and columns using DAX functions such as count, sum, calculate, etc.
+**_Department Level Filter:_**  
+- Human Resources  
+- Research & Development  
+- Sales  
 
-**_Insights:_**
-1. The attrition rate is higher in Life Sciences Education which is 38%.
-2. Maximum attrition happening in the age group 26-35.
-3. The attrition rate seems to be high after working for a year in the company.
-4. The attrition rate is highest for employees who are paid up to 5K.
-5. Attrition is directly proportional to job satisfaction as well for different job roles. Hence lower the number, the more chances of attrition.
-6. A laboratory technician's position has the highest attrition rate, i.e. 62.
-7. The attrition rate is higher for male employees than for female employees.
+**_Performance Indicators (KPIs):_**  
+- Count of employees  
+- Attrition figures  
+- Attrition rate  
+- Average age of employees  
+- Average salary of employees  
+- Average years of employees at the company  
 
-By providing these insights, the dashboard enables HR managers to take significant measures to manage attrition, retain the best performing employees and build a more productive work environment.
+---
+
+## **ACTIONS PERFORMED**
+
+> **Data Cleaning:**  
+> Utilized Power Query to remove irrelevant and unused data by eliminating duplicates, renaming columns, and changing data types.  
+>  
+> **Data Processing:**  
+> Loaded the cleaned data into Power BI for further analysis.  
+>  
+> **Data Visualization:**  
+> Created measures and columns using DAX functions such as `COUNT`, `SUM`, `CALCULATE`, etc.
+
+---
+
+## **INSIGHTS**
+
+1. The attrition rate is highest in the **Life Sciences Education** department at **38%**.  
+2. Maximum attrition occurs in the **26–35 age group**.  
+3. Attrition rates increase significantly **after one year of employment**.  
+4. Employees earning **up to $5K** have the highest attrition rate.  
+5. **Job satisfaction** inversely correlates with attrition—**lower satisfaction means higher attrition**, varying across job roles.  
+6. The **Laboratory Technician** role has the highest attrition count, at **62**.  
+7. **Male employees** experience a higher attrition rate than **female employees**.
+
+---
+
+By providing these insights, the dashboard empowers HR managers to take strategic actions aimed at reducing attrition, retaining top performers, and cultivating a more productive work environment.
